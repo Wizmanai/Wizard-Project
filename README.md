@@ -2,10 +2,10 @@
 Disclaimer:
 The wizard will curse you out if it thinks you're being rude! So please be nice!
 
-Description
-This project uses an RNN (Recurrent Neural Network) to generate text. The text this generates, is the tweet that shall be posted. It is automated to respond to specific usernames but will respond until it gets over saturated with comments.
+Description:
+This project uses an RNN (Recurrent Neural Network) to generate text. The text this generates, is the tweet that shall be posted. It is automated to respond to specific usernames but will stop responding once it gets saturated with comments.
 
-Precautions
+Precautions:
 Any generated text will be scanned!
 
 If you see this project and the AI has tweeted something offensive and / or something that you think should not be tweeted, please do not contact me that is the point
